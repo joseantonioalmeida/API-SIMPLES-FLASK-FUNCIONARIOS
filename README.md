@@ -7,13 +7,13 @@ Esta é uma API simples em **Flask** para gerenciar funcionários armazenados em
 - **POST `/funcionarios/`** – Cria um novo registro de funcionário.
 
 ## Sumário
-1. [Pré‑requisitos](#-pré-requisitos)
-2. [Instalação](#-instalação)
-3. [Configuração](#-configuração)
-4. [Executando a aplicação](#-executando-a-aplicação)
-5. [Endpoints da API](#-endpoints-da-api)
-6. [Estrutura da tabela](#-estrutura-da-tabela)
-7. [Melhorias sugeridas](#-melhorias-sugeridas)
+1. [Pré‑requisitos](#pré-requisitos)
+2. [Instalação](#instalação)
+3. [Configuração](#configuração)
+4. [Executando a aplicação](#executando-a-aplicação)
+5. [Endpoints da API](#endpoints-da-api)
+6. [Estrutura da tabela](#estrutura-da-tabela)
+7. [Melhorias sugeridas](#melhorias-sugeridas)
 
 ---
 
